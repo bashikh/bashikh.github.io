@@ -1,8 +1,8 @@
 [{
-  "relation": ["delegate_permission/common.handle_all_urls"],
+  "relation": ["delegate_permission/common.handle_all_urls", "delegate_permission/common.get_login_creds"],
   "target": {
     "namespace": "android_app",
-    "package_name": "sa.aamaly.pos",
+    "package_name": "sa.thiqah.sales",
     "sha256_cert_fingerprints":
     ["2E:38:A1:5B:C8:DC:93:BB:69:5F:76:1B:CB:61:22:B7:05:46:6C:F2:8A:11:C9:1E:57:22:CD:58:39:83:7C:24"]
   }
